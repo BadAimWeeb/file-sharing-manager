@@ -1,0 +1,22 @@
+{
+  "name": "fsm-server",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.4.4"
+  },
+  "dependencies": {
+    "@types/express": "^4.17.13",
+    "express": "^4.17.1",
+    "go-ipfs": "^0.10.0",
+    "ipfs": "^0.59.1",
+    "ipfs-http-client": "^53.0.1",
+    "ipfsd-ctl": "^10.0.4"
+  }
+}
